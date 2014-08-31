@@ -37,7 +37,7 @@
 #include "acpuclock.h"
 
 /* maxscroff */
-uint32_t maxscroff_freq = 594000;
+uint32_t maxscroff_freq = 540000;
 uint32_t maxscroff = 0;
 
 static DEFINE_MUTEX(l2bw_lock);
